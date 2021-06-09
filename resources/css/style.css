@@ -4,4 +4,9 @@ h1 {
   font-size: 50px;
   color: White;
   text-align: Center;
+},
+
+.download {
+  color: Aquamarine;
+  font-size: 16px;
 }
